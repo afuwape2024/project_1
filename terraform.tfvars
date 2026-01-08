@@ -1,0 +1,8 @@
+cidr_block = "10.0.0.0/16"
+aws_vpc = "myvpc"
+aws_public_subnet_cidr = "10.0.0.0/24"
+aws_private_subnet_cidr = "10.0.2.0/24"
+aws_public_subnet_cidr_2 = "10.0.1.0/24"
+aws_private_subnet_cidr_2 = "10.0.3.0/24"
+aws_availability_zone_1 = "us-east-2a"
+aws_availability_zone_2 = "us-east-2b"
