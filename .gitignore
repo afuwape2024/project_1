@@ -1,5 +1,5 @@
-*.terraformtfstate
-*.terraformtfstate.backup
+*.tfstate
+*.tfstate.backup
 .terraform/
 crash.log
 *.tfvars
@@ -9,5 +9,7 @@ override.tf.json
 *_override.tf
 *_override.tf.json
 .terraformrc
-terraform.rc    
+terraform.rc
 .terraform.lock.hcl
+aws/
+awscliv2.zip
